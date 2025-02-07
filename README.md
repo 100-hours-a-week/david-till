@@ -8,7 +8,7 @@
 
 25.02.05 NumPy 미니퀘스트 & 과제 1번 (https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.05.md)
 
-25.02.06 Pandas 미니퀘스트 & 과제 2번 (상세 내역 링크)
+25.02.06 Pandas 미니퀘스트 & 과제 2번 (https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.06.md)
 
 25.02.07 딥다이브 & 과제 마무리 
 
