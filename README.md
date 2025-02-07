@@ -4,7 +4,7 @@
 
 ### [2월 둘째주, 2주차] :NumPy, Pandas
 
-24.02.03 세부 주제 4 작성 (상세 내역 링크)
+24.02.03 1주차 과제 마무리 & Python 복습 (https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.03.md)
 
 24.02.04 세부 주제 3 작성 (상세 내역 링크)
 
