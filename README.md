@@ -14,5 +14,5 @@
 
 25.02.08 휴가 (결혼식)
 
-\\\python
+```python
 print("Hello")
