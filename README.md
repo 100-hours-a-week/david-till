@@ -1,6 +1,4 @@
-# til-template
-
-## 오늘 내가 배운 것들(Today I Learned)
+## 오늘 내가 배운 것들(Today I Learned) / Personal Study
 
 ### [2월 둘째주, 2주차] :NumPy, Pandas
 
