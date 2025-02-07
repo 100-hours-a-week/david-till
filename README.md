@@ -13,6 +13,3 @@
 25.02.07 딥다이브 & 과제 마무리 (https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.07.md)
 
 25.02.08 휴가 (결혼식)
-
-```python
-print("Hello")
