@@ -18,4 +18,4 @@
 
 ### [2월 셋째주, 3주차] :
 
-25.02.10 (월) 데이터 시각화, AI 통계 (
+25.02.10 (월) 데이터 시각화, AI 통계 [(TIL)](https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.10.md)
