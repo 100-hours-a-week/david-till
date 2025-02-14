@@ -22,6 +22,6 @@
 
 25.02.11 (화) 크램폴린 [(TIL)](https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.11.md)
 
-25.02.12 (수) Matplotlib [(TIL)](https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.12.md)
+25.02.12 (수) Seaborn 통계 [(TIL)](https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.12.md)
 
 25.02.13 (목) Seaborn [(TIL)]
