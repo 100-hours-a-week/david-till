@@ -27,3 +27,5 @@
 25.02.13 (목) Seaborn [(TIL)](https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.13.md)
 
 25.02.14 (금) 딥다이브 (시계열 분석) [(TIL)](https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.14.md)
+
+25.02.18 (화) 머신러닝 & 딥러닝 [(TIL)](https://github.com/100-hours-a-week/david-till/blob/Today-I-Learn/02.February/2025.02.18.md)
